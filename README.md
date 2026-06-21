@@ -7,4 +7,4 @@
 
 ## LIGHT MODE 🤍
 ![](https://github.com/armanhossen-dev/portfolio/blob/main/img/white.png)
---- last update: Mon, 22 Jun, 01.21AM, 2026
+## **last update: Mon, 22 Jun, 01.21AM, 2026**
